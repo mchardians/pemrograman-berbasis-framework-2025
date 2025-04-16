@@ -1,4 +1,4 @@
-# 📘 MATA KULIAH PEMROGRAMAN BERBASIS FRAMEWORK 2025‼️
+# 📘 PEMROGRAMAN BERBASIS FRAMEWORK 2025‼️
 
 Selamat datang di __*Master Repository*__ untuk mata kuliah **Pemrograman Berbasis Framework** :atom:.
 
