@@ -21,7 +21,7 @@ Repository ini berisi kumpulan **Tugas, Kuis, serta Project UTS dan UAS** yang s
 
 ## 📌 Catatan
 
-- Setiap repository tugas memiliki README tersendiri untuk penjelasan lengkap.
+- Setiap repository tugas memiliki README tersendiri sebagai laporan praktikum.
 - Repository ini bersifat pribadi dan ditujukan untuk dokumentasi tugas perkuliahan individu dan kelompok.
 
 ---
