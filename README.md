@@ -14,8 +14,9 @@ Repository ini berisi kumpulan **Tugas, Kuis, serta Project UTS dan UAS** yang s
 | 2 | Fundamental ReactJS | [🔗 02-reactjs-fundamentals](https://github.com/mchardians/02-reactjs-fundamentals) |
 | 3 | Pengenalan NextJS | [🔗 03-nextjs-introduction](https://github.com/mchardians/03-nextjs-introduction) |
 | 4 | Kuis 1 | [🔗 iman-api](https://github.com/mchardians/iman-api) |
-| 5 | Membangun Website Pribadi dengan Next.js (App Router), React, dan Tailwind CSS | [🔗 05-nextjs-tailwindcss](https://github.com/mchardians/05-nextjs-tailwindcss-and-06-nextjs-seo) |
-| 6 | Membuat Halaman yang SEO-Friendly dengan Next.js | [🔗 06-nextjs-seo](https://github.com/mchardians/05-nextjs-tailwindcss-and-06-nextjs-seo) |
+| 5 | Membangun Website Pribadi dengan NextJS (App Router), React, dan Tailwind CSS | [🔗 05-nextjs-tailwindcss](https://github.com/mchardians/05-nextjs-tailwindcss-and-06-nextjs-seo) |
+| 6 | Membuat Halaman yang SEO-Friendly dengan NextJS | [🔗 06-nextjs-seo](https://github.com/mchardians/05-nextjs-tailwindcss-and-06-nextjs-seo) |
+| 7 | State Management dalam NextJS | [🔗 07-nextjs-state-management](https://github.com/mchardians/07-nextjs-state-management) |
 
 ---
 
