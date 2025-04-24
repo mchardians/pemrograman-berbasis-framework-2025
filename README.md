@@ -17,6 +17,7 @@ Repository ini berisi kumpulan **Tugas, Kuis, serta Project UTS dan UAS** yang s
 | 5 | Membangun Website Pribadi dengan NextJS (App Router), React, dan Tailwind CSS | [🔗 05-nextjs-tailwindcss](https://github.com/mchardians/05-nextjs-tailwindcss-and-06-nextjs-seo) |
 | 6 | Membuat Halaman yang SEO-Friendly dengan NextJS | [🔗 06-nextjs-seo](https://github.com/mchardians/05-nextjs-tailwindcss-and-06-nextjs-seo) |
 | 7 | State Management dalam NextJS | [🔗 07-nextjs-state-management](https://github.com/mchardians/07-nextjs-state-management) |
+| 8 | UTS | [🔗 fbp-mid-test](https://github.com/mchardians/fbp-mid-test) |
 
 ---
 
